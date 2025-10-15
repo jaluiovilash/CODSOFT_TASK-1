@@ -1,63 +1,63 @@
 .hero {
-    background-color: var(--white-200);
-    color: var(--secondary-color);
+  background-color: var(--white-200);
+  color: var(--secondary-color);
 }
 
 .techzap-content {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
 .techzap-content__left {
-    max-width: 950px;
-    padding: 84px 64px;
+  max-width: 950px;
+  padding: 84px 64px;
 }
 
 .techzap-content__tagline {
-    font-size: 4rem;
-    font-weight: 800;
+  font-size: 3rem;
+  font-weight: 800;
 }
 
 .email-taker {
-    display: flex;
-    justify-content: left;
-    align-items: center;
+  display: flex;
+  justify-content: left;
+  align-items: center;
 
-    margin: 0 0 50px 0;
+  margin: 0 0 50px 0;
 }
 
 .email-taker input {
-    width: 400px;
-    height: 48px;
-    padding: 8px 28px;
-    font-size: 0.9rem;
+  width: 400px;
+  height: 48px;
+  padding: 8px 28px;
+  font-size: 0.9rem;
 
-    outline: none;
-    border: none;
-    border-radius: 8px 0 0 8px;
+  outline: none;
+  border: none;
+  border-radius: 8px 0 0 8px;
 
-    background-color: #fff;
-    color: #000;
+  background-color: #fff;
+  color: #000;
 }
 
 .mail-button {
-    padding: 12px 28px;
-    background-color: var(--primary-color);
-    color: #fff;
+  padding: 12px 28px;
+  background-color: var(--primary-color);
+  color: #fff;
 
-    outline: none;
-    border: none;
-    border-radius: 0 8px 8px 0;
-    font-weight: 600;
+  outline: none;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  font-weight: 600;
 
-    cursor: pointer;
+  cursor: pointer;
 
-    width: 130px;
-    height: 48px;
+  width: 130px;
+  height: 48px;
 }
 
 .techzap-content__founder img {
-    width: 700px;
-    height: auto;
+  width: 700px;
+  height: auto;
 }
